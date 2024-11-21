@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    color: #2b2839;
+}
+
+.img-a {
+    width: 150px;
+}
+
+.card {
+    background: #ddebf8;
+    width: 400px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 8px solid #d8cefe;
+}
+
+/* .bor-dec {
+    border: 1px dotted blue;
+} */
